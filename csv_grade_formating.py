@@ -1,4 +1,4 @@
-# Jye Floreani, Task 3.1p, 23/03/2023, 9:30, 28/03/2023, 16:30
+# Jye Floreani, Task 3.1p/3.2c, 23/03/2023, 9:30, 08/04/2023, 16:45
 import numpy as np
 import pandas as pd
 from enum import Enum
